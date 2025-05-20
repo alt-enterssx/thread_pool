@@ -30,7 +30,7 @@ Takes two numbers and returns the sum.
 
 ## Authors
 
-- [@atlenter](https://www.github.com/alt-enterssx)
+- [@atlenter_codi](https://www.github.com/alt-enterssx)
 
 
 ## Feedback
