@@ -2,7 +2,7 @@
 
 **Pool Tasker** is a lightweight header-only C++17 thread pool implementation designed for efficient parallel task execution with zero external dependencies.
 
-![Project Banner](/assets/banner.png)
+![Project Banner](/assets/banner.jpg)
 
 ## API Reference
 
