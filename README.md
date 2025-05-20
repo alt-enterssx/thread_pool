@@ -1,6 +1,9 @@
 # Pool Tasker - Minimalist Thread Pool Library
 
 **Pool Tasker** is a lightweight header-only C++17 thread pool implementation designed for efficient parallel task execution with zero external dependencies.
+
+![Project Banner](/assets/banner.png)
+
 ## API Reference
 
 #### Get all items
