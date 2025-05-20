@@ -62,7 +62,7 @@ Manages thread pool and task queue.
 
 ## Authors
 
-- [@atlenter](https://www.github.com/alt-enterssx)
+- [@atlenter_codi](https://www.github.com/alt-enterssx)
 
 
 ## Feedback
