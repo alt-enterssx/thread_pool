@@ -13,7 +13,7 @@ int main() {
         std::cout << "Hello world" << std::endl;
     }, 1));
 
-    tasker.wait();
+    tasker.stop();
 
     return 0x0;
 }
